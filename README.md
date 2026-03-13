@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Sharpening my skills in C++ through projects<br>👯 I’m looking to collaborate on<br>Any projects to learn!<br>🤝 I’m looking for help with<br>How to start with Tailwind<br>🌱 I’m currently learning<br>HTML, CSS, and Javascript for web development<br>💬 Ask me about<br>How university is going <br>⚡ Fun fact<br>I like to play basketball
+🔭 I’m currently working on<br>Sharpening my skills in C++ through projects<br>👯 I’m looking to collaborate on<br>Any projects to learn!<br>🤝 I’m looking for help with<br>How to start with Tailwind<br>🌱 I’m currently learning<br>HTML, CSS, and Javascript for web development<br>💬 Ask me about<br>How university is going <br>⚡ Fun fact<br>I am trying to implement basketball into my projects!
 
 
 ## 🌐 Socials:
