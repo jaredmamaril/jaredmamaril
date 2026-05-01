@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Creating my summer project! through projects<br>👯 I’m looking to collaborate on<br>Any projects to learn!<br>🤝 I’m looking for help with<br>API integration into my projects<br>🌱 I’m currently learning<br>SQL for accessing my database!<br>💬 Ask me about<br>How university is going <br>⚡ Fun fact<br>I am trying to implement basketball into my projects!
+🔭 I’m currently working on<br>Creating my summer project!<br>👯 I’m looking to collaborate on<br>Any projects to learn!<br>🤝 I’m looking for help with<br>API integration into my projects<br>🌱 I’m currently learning<br>SQL for accessing my database!<br>💬 Ask me about<br>How university is going <br>⚡ Fun fact<br>I am trying to implement basketball into my projects!
 
 
 ## 🌐 Socials:
