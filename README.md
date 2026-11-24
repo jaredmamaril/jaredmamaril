@@ -1,6 +1,13 @@
 # 💫 About Me:
 🔭 I’m currently working on **StatCourt**, a full-stack NBA analytics application!<br>👯 I’m looking to collaborate on projects that help me grow as a software developer!<br>🤝 I’m interested in learning more about backend development, APIs, and building scalable applications!<br>🌱 I’m currently strengthening my skills in **Python, TypeScript, React, Next.js, and PostgreSQL**!<br>💬 Ask me about balancing college with building projects and learning outside the classroom!<br>⚡ I enjoy combining **basketball, data, and software development** in my projects!
 
+## 🚀 Featured Projects
+
+### [StatCourt — NBA Analytics Platform](https://github.com/jaredmamaril/statcourt)
+A full-stack NBA analytics application for exploring players, comparing statistics, building custom lineups, and generating scouting reports. Built using Next.js, React, TypeScript, Python, and PostgreSQL.
+
+### Second Project — Coming Soon
+A second project will be featured here with its description and repository link.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mattjaredmamaril) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Least-East492) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jaredmamaril) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tytjared@gmail.com) 
